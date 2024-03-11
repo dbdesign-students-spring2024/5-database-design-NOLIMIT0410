@@ -101,5 +101,5 @@ With all the information reagrading entities and their relationships, we are now
 ## Lastly, the ER diagram that illustrates everything above:
 
 
-![ERM](images\ERM.svg)
+![ERM](https://github.com/dbdesign-students-spring2024/5-database-design-NOLIMIT0410/blob/master/images/ERM.svg)
 
